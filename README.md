@@ -15,5 +15,7 @@ The performance of these algorithms is evaluated on the training dataset, as wel
 The results of these analytics will provide model insights into which algorithm performs the best in terms of estimating diamond prices. The selected algorithm will be able to accurately evaluate the retail value of the diamonds based on the input values, contributing to the understanding of diamond pricing factors, and aiding with the decision-making processes within the diamond industry. 
 
 Keywords: Big Data Analytics, Diamond price prediction, Evaluation metrics, Feature engineering, Gradient Boosting, Linear Regression, Machine learning algorithms, Neural Networks, Random Forest. 
- 
+<img width="455" alt="Screenshot 2023-12-04 at 11 17 43 AM" src="https://github.com/Shreyas-dotcom/DiamondPredictiveModeling/assets/82762631/4bf96de2-f9e2-4576-bd8d-e5897fd3a0fd">
+
+ 
 
